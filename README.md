@@ -1,8 +1,6 @@
-# Threejs Examples
-Experimental projects with three.js
+# Threejs Demo
 
-### Run
 ```
-yarn install
-yarn dev
+npm install
+npm run dev
 ```
